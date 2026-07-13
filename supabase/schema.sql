@@ -15,7 +15,9 @@ create table if not exists factions (
 create table if not exists dispositions (
   id bigint generated always as identity primary key,
   name text not null unique,
-  description text not null
+  -- Nullable: real 11th-edition flavour/rules text goes in via admin import
+  -- or a later seed pass, not fabricated here.
+  description text
 );
 
 create table if not exists disposition_tips (
@@ -54,11 +56,13 @@ create table if not exists matchups (
   disposition_b_id bigint not null references dispositions(id),
   mission_name_a text not null,
   mission_name_b text not null,
-  objectives_summary text not null,
-  layout_variants text[] not null,
-  play_tips text not null,
+  -- Nullable: objectives/layout/tips are filled in as that content becomes
+  -- available; mission names alone are enough to seed a row.
+  objectives_summary text,
+  layout_variants text[],
+  play_tips text,
   constraint matchups_canonical_pair check (disposition_a_id <= disposition_b_id),
-  constraint matchups_layout_variants_count check (array_length(layout_variants, 1) = 3),
+  constraint matchups_layout_variants_count check (layout_variants is null or array_length(layout_variants, 1) = 3),
   unique (disposition_a_id, disposition_b_id)
 );
 

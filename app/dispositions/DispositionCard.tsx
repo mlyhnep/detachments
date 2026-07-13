@@ -10,7 +10,9 @@ export default function DispositionCard({
   return (
     <div className="rounded-lg border border-gray-800 bg-gray-900 p-6">
       <h2 className="mb-2 text-lg font-semibold text-white">{disposition.name}</h2>
-      <p className="mb-4 text-sm text-gray-400">{disposition.description}</p>
+      <p className="mb-4 text-sm text-gray-400">
+        {disposition.description ?? <span className="italic text-gray-600">No description added yet.</span>}
+      </p>
       {tips.length > 0 && (
         <ul className="flex flex-col gap-1.5">
           {tips.map((tip) => (

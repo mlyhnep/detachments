@@ -35,7 +35,7 @@ export default function DispositionMatchRow({
             <p className="mb-1 font-medium text-white">
               {myMissionName(matchup, myDispositionId)}
             </p>
-            <p className="text-sm text-gray-400">{matchup.play_tips}</p>
+            {matchup.play_tips && <p className="text-sm text-gray-400">{matchup.play_tips}</p>}
           </>
         )}
       </div>

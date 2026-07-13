@@ -1,1 +1,137 @@
-[]
+[
+  {
+    "disposition_a": "Take and Hold",
+    "disposition_b": "Take and Hold",
+    "mission_name_a": "Battlefield Dominance",
+    "mission_name_b": "Battlefield Dominance",
+    "objectives_summary": null,
+    "layout_variants": null,
+    "play_tips": null
+  },
+  {
+    "disposition_a": "Purge the Foe",
+    "disposition_b": "Purge the Foe",
+    "mission_name_a": "Meatgrinder",
+    "mission_name_b": "Meatgrinder",
+    "objectives_summary": null,
+    "layout_variants": null,
+    "play_tips": null
+  },
+  {
+    "disposition_a": "Disruption",
+    "disposition_b": "Disruption",
+    "mission_name_a": "Outmanoeuvre",
+    "mission_name_b": "Outmanoeuvre",
+    "objectives_summary": null,
+    "layout_variants": null,
+    "play_tips": null
+  },
+  {
+    "disposition_a": "Reconnaissance",
+    "disposition_b": "Reconnaissance",
+    "mission_name_a": "Gather Intel",
+    "mission_name_b": "Gather Intel",
+    "objectives_summary": null,
+    "layout_variants": null,
+    "play_tips": null
+  },
+  {
+    "disposition_a": "Priority Assets",
+    "disposition_b": "Priority Assets",
+    "mission_name_a": "Sabotage",
+    "mission_name_b": "Sabotage",
+    "objectives_summary": null,
+    "layout_variants": null,
+    "play_tips": null
+  },
+  {
+    "disposition_a": "Take and Hold",
+    "disposition_b": "Purge the Foe",
+    "mission_name_a": "Immovable Object",
+    "mission_name_b": "Unstoppable Force",
+    "objectives_summary": null,
+    "layout_variants": null,
+    "play_tips": null
+  },
+  {
+    "disposition_a": "Take and Hold",
+    "disposition_b": "Disruption",
+    "mission_name_a": "Determined Acquisition",
+    "mission_name_b": "Death Trap",
+    "objectives_summary": null,
+    "layout_variants": null,
+    "play_tips": null
+  },
+  {
+    "disposition_a": "Take and Hold",
+    "disposition_b": "Reconnaissance",
+    "mission_name_a": "Purge and Secure",
+    "mission_name_b": "Reconnaissance Sweep",
+    "objectives_summary": null,
+    "layout_variants": null,
+    "play_tips": null
+  },
+  {
+    "disposition_a": "Take and Hold",
+    "disposition_b": "Priority Assets",
+    "mission_name_a": "Inescapable Dominion",
+    "mission_name_b": "Secure Asset",
+    "objectives_summary": null,
+    "layout_variants": null,
+    "play_tips": null
+  },
+  {
+    "disposition_a": "Purge the Foe",
+    "disposition_b": "Disruption",
+    "mission_name_a": "Punishment",
+    "mission_name_b": "Delaying Action",
+    "objectives_summary": null,
+    "layout_variants": null,
+    "play_tips": null
+  },
+  {
+    "disposition_a": "Purge the Foe",
+    "disposition_b": "Reconnaissance",
+    "mission_name_a": "Consecrate",
+    "mission_name_b": "Triangulation",
+    "objectives_summary": null,
+    "layout_variants": null,
+    "play_tips": null
+  },
+  {
+    "disposition_a": "Purge the Foe",
+    "disposition_b": "Priority Assets",
+    "mission_name_a": "Destroyer's Wrath",
+    "mission_name_b": "Vital Link",
+    "objectives_summary": null,
+    "layout_variants": null,
+    "play_tips": null
+  },
+  {
+    "disposition_a": "Disruption",
+    "disposition_b": "Reconnaissance",
+    "mission_name_a": "Smoke and Mirrors",
+    "mission_name_b": "Surveil the Foe",
+    "objectives_summary": null,
+    "layout_variants": null,
+    "play_tips": null
+  },
+  {
+    "disposition_a": "Disruption",
+    "disposition_b": "Priority Assets",
+    "mission_name_a": "Locate and Deny",
+    "mission_name_b": "Extract Relic",
+    "objectives_summary": null,
+    "layout_variants": null,
+    "play_tips": null
+  },
+  {
+    "disposition_a": "Reconnaissance",
+    "disposition_b": "Priority Assets",
+    "mission_name_a": "Search and Scour",
+    "mission_name_b": "Vanguard Operation",
+    "objectives_summary": null,
+    "layout_variants": null,
+    "play_tips": null
+  }
+]

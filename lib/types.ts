@@ -6,7 +6,7 @@ export type Faction = {
 export type Disposition = {
   id: number;
   name: string;
-  description: string;
+  description: string | null;
 };
 
 export type DispositionTip = {
@@ -39,7 +39,7 @@ export type Matchup = {
   disposition_b_id: number;
   mission_name_a: string;
   mission_name_b: string;
-  objectives_summary: string;
-  layout_variants: string[];
-  play_tips: string;
+  objectives_summary: string | null;
+  layout_variants: string[] | null;
+  play_tips: string | null;
 };

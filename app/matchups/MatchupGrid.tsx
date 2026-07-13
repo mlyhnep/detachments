@@ -95,21 +95,33 @@ export default function MatchupGrid({
               </div>
               <div className="sm:col-span-2">
                 <h3 className="mb-1 text-sm font-medium text-gray-400">Objectives</h3>
-                <p className="text-sm text-gray-300">{selectedMatchup.objectives_summary}</p>
+                {selectedMatchup.objectives_summary ? (
+                  <p className="text-sm text-gray-300">{selectedMatchup.objectives_summary}</p>
+                ) : (
+                  <p className="text-sm text-gray-600 italic">Not added yet.</p>
+                )}
               </div>
               <div className="sm:col-span-2">
                 <h3 className="mb-1 text-sm font-medium text-gray-400">Layout variants</h3>
-                <ul className="flex flex-col gap-1">
-                  {selectedMatchup.layout_variants.map((v, i) => (
-                    <li key={i} className="text-sm text-gray-300">
-                      {i + 1}. {v}
-                    </li>
-                  ))}
-                </ul>
+                {selectedMatchup.layout_variants ? (
+                  <ul className="flex flex-col gap-1">
+                    {selectedMatchup.layout_variants.map((v, i) => (
+                      <li key={i} className="text-sm text-gray-300">
+                        {i + 1}. {v}
+                      </li>
+                    ))}
+                  </ul>
+                ) : (
+                  <p className="text-sm text-gray-600 italic">Not added yet.</p>
+                )}
               </div>
               <div className="sm:col-span-2">
                 <h3 className="mb-1 text-sm font-medium text-gray-400">Play tips</h3>
-                <p className="text-sm text-gray-300">{selectedMatchup.play_tips}</p>
+                {selectedMatchup.play_tips ? (
+                  <p className="text-sm text-gray-300">{selectedMatchup.play_tips}</p>
+                ) : (
+                  <p className="text-sm text-gray-600 italic">Not added yet.</p>
+                )}
               </div>
             </div>
           )}
