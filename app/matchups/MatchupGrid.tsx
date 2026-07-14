@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import type { Disposition, Matchup } from "@/lib/types";
-import { findMatchup } from "@/lib/matchup-lookup";
+import { findMatchup, myMissionName } from "@/lib/matchup-lookup";
 
 export default function MatchupGrid({
   dispositions,
@@ -50,19 +50,21 @@ export default function MatchupGrid({
                     ((selected.a === rowD.id && selected.b === colD.id) ||
                       (selected.a === colD.id && selected.b === rowD.id));
                   const isMirror = rowD.id === colD.id;
+                  const cellMatchup = findMatchup(matchups, rowD.id, colD.id);
+                  const missionName = cellMatchup ? myMissionName(cellMatchup, rowD.id) : null;
                   return (
                     <td key={colD.id} className="p-1">
                       <button
                         onClick={() => setSelected({ a: rowD.id, b: colD.id })}
-                        className={`h-14 w-full rounded border text-xs transition-colors ${
+                        className={`flex h-14 w-full items-center justify-center rounded border px-1.5 text-center text-[11px] leading-tight transition-colors ${
                           isSelected
                             ? "border-white bg-gray-700 text-white"
                             : isMirror
-                              ? "border-gray-800 bg-gray-900/60 text-gray-500 hover:border-gray-600"
-                              : "border-gray-800 bg-gray-900 text-gray-500 hover:border-gray-600"
+                              ? "border-gray-800 bg-gray-900/60 text-gray-400 hover:border-gray-600"
+                              : "border-gray-800 bg-gray-900 text-gray-400 hover:border-gray-600"
                         }`}
                       >
-                        {isMirror ? "Mirror" : ""}
+                        {missionName ?? (isMirror ? "Mirror" : "")}
                       </button>
                     </td>
                   );
