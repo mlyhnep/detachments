@@ -1,5 +1,6 @@
 import type { Disposition, DetachmentWithFaction, Matchup } from "@/lib/types";
 import { findMatchup, myMissionName } from "@/lib/matchup-lookup";
+import ScoutedDetachmentItem from "./ScoutedDetachmentItem";
 
 export default function DispositionMatchRow({
   myDispositionId,
@@ -51,9 +52,7 @@ export default function DispositionMatchRow({
             </h3>
             <ul className="flex flex-col gap-0.5">
               {scoutedDetachments.map((d) => (
-                <li key={d.id} className="text-sm text-gray-300">
-                  {d.name} <span className="text-gray-500">({d.faction_name})</span>
-                </li>
+                <ScoutedDetachmentItem key={d.id} detachment={d} />
               ))}
             </ul>
           </>
