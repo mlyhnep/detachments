@@ -1,1 +1,5654 @@
-[]
+[
+  {
+    "faction": "Sisters of Battle",
+    "name": "Army of Faith",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Sisters of Battle",
+    "name": "Bringers of Flame",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Sisters of Battle",
+    "name": "Champions of Faith",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Sisters of Battle",
+    "name": "Chorus of Condemnation",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Sisters of Battle",
+    "name": "Hallowed Martyrs",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Sisters of Battle",
+    "name": "Penitent Host",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Sisters of Battle",
+    "name": "Sacred Champions",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Sisters of Battle",
+    "name": "Sanctified Orators",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Custodes",
+    "name": "Auric Champions",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Custodes",
+    "name": "Lions of the Emperor",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Custodes",
+    "name": "Might of the Moritoi",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Custodes",
+    "name": "Null Maiden Vigil",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Custodes",
+    "name": "Shield Host",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Custodes",
+    "name": "Silent Hunters",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Custodes",
+    "name": "Solar Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Custodes",
+    "name": "Talons of the Emperor",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Custodes",
+    "name": "Tharanatoi Hammerblow",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Mechanicus",
+    "name": "Cohort Acquisitus",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Mechanicus",
+    "name": "Cohort Cybernetica",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Mechanicus",
+    "name": "Data-Psalm Conclave",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Mechanicus",
+    "name": "Eradication Cohort",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Mechanicus",
+    "name": "Explorator Maniple",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Mechanicus",
+    "name": "Haloscreed Battle Clade",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Mechanicus",
+    "name": "Lords of the Forge",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Mechanicus",
+    "name": "Luminen Auto-Choir",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Mechanicus",
+    "name": "Rad-Zone Corps",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Adeptus Mechanicus",
+    "name": "Skitarii Hunter Cohort",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Aeldari",
+    "name": "Armoured Warhost",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Aeldari",
+    "name": "Aspect Host",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Aeldari",
+    "name": "Corsair Coterie",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Aeldari",
+    "name": "Devoted of Ynnead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Aeldari",
+    "name": "Eldritch Raiders",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Aeldari",
+    "name": "Fateful Performance",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Aeldari",
+    "name": "Ghosts of the Webway",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Aeldari",
+    "name": "Guardian Battlehost",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Aeldari",
+    "name": "Path of the Outcast",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Aeldari",
+    "name": "Seer Council",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Aeldari",
+    "name": "Serpent's Brood",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Aeldari",
+    "name": "Spirit Conclave",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Aeldari",
+    "name": "Twilight Flickers",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Aeldari",
+    "name": "Warhost",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Aeldari",
+    "name": "Windrider Host",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Astra Militarum",
+    "name": "Abhuman Auxiliaries",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Astra Militarum",
+    "name": "Armoured Infantry",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Astra Militarum",
+    "name": "Bridgehead Strike",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Astra Militarum",
+    "name": "Combined Arms",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Astra Militarum",
+    "name": "Designation Force",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Astra Militarum",
+    "name": "Grizzled Company",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Astra Militarum",
+    "name": "Hammer of the Emperor",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Astra Militarum",
+    "name": "Mechanised Assault",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Astra Militarum",
+    "name": "Recon Element",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Astra Militarum",
+    "name": "Siege Regiment",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Astra Militarum",
+    "name": "Steel Hammer",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Anvil Siege Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Armoured Speartip",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Bastion Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Ceramite Sentinels",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Companions of Vehemence",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Firestorm Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Fulguris Task Force",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Gladius Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Godhammer Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Headhunter Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Ironstorm Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Marshal's Household",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Orbital Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Stormlance Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Subversion Assets",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "The Living Miracle",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Vanguard Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Vindication Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Black Templars",
+    "name": "Wrathful Procession",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "1st Company Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Angelic Inheritors",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Anvil Siege Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Armoured Speartip",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Bastion Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Ceramite Sentinels",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Encarmine Speartip",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Firestorm Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Fulguris Task Force",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Gladius Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Headhunter Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Ironstorm Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Legacy of Grace",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Liberator Assault Group",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Librarius Conclave",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Orbital Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Rage-Cursed Onslaught",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Stormlance Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Subversion Assets",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "The Angelic Host",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "The Lost Brethren",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Vanguard Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Blood Angels",
+    "name": "Wrath of the Doomed",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Daemons",
+    "name": "Blood Legion",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Daemons",
+    "name": "Cavalcade of Chaos",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Daemons",
+    "name": "Daemonic Incursion",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Daemons",
+    "name": "Legion of Excess",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Daemons",
+    "name": "Lords of the Warp",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Daemons",
+    "name": "Plague Legion",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Daemons",
+    "name": "Scintillating Legion",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Daemons",
+    "name": "Shadow Legion",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Daemons",
+    "name": "Warptide",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Knights",
+    "name": "Bastions of Tyranny",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Knights",
+    "name": "Helhunt Lance",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Knights",
+    "name": "Houndpack Lance",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Knights",
+    "name": "Hunting Warpack",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Knights",
+    "name": "Iconoclast Fiefdom",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Knights",
+    "name": "Infernal Lance",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Knights",
+    "name": "Lords of Dread",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Knights",
+    "name": "Traitoris Lance",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Space Marines",
+    "name": "Cabal of Chaos",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Space Marines",
+    "name": "Chaos Cult",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Space Marines",
+    "name": "Creations of Bile",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Space Marines",
+    "name": "Cult of the Arkifane",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Space Marines",
+    "name": "Deceptors",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Space Marines",
+    "name": "Devotees of Destruction",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Space Marines",
+    "name": "Dread Talons",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Space Marines",
+    "name": "Fellhammer Siege-Host",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Space Marines",
+    "name": "Huron's Marauders",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Space Marines",
+    "name": "Murdertalon Raiders",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Space Marines",
+    "name": "Nightmare Hunt",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Space Marines",
+    "name": "Pactbound Zealots",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Space Marines",
+    "name": "Renegade Raiders",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Space Marines",
+    "name": "Renegade Warband",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Space Marines",
+    "name": "Soulforged Warpack",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Space Marines",
+    "name": "Veterans of the Long War",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Chaos Space Marines",
+    "name": "Warpstrike Champions",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "1st Company Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Anvil Siege Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Armoured Speartip",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Bastion Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Ceramite Sentinels",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Company of Hunters",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Dark Age Arsenal",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Darkflight Pursuit",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Firestorm Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Fulguris Task Force",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Gladius Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Headhunter Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Inner Circle Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Interrogation Conclave",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Ironstorm Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Librarius Conclave",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Lion's Blade Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Orbital Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Stormlance Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Subversion Assets",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Unforgiven Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Vanguard Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Dark Angels",
+    "name": "Wrath of the Rock",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Death Guard",
+    "name": "Champions of Contagion",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Death Guard",
+    "name": "Contagion Engines",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Death Guard",
+    "name": "Death Lord's Chosen",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Death Guard",
+    "name": "Flyblown Host",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Death Guard",
+    "name": "Mortarion's Hammer",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Death Guard",
+    "name": "Paragons of Putrescence",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Death Guard",
+    "name": "Shamblerot Vectorium",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Death Guard",
+    "name": "Tallyband Summoners",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Death Guard",
+    "name": "Virulent Vectorium",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Deathwatch",
+    "name": "1st Company Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Deathwatch",
+    "name": "Anvil Siege Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Deathwatch",
+    "name": "Armoured Speartip",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Deathwatch",
+    "name": "Bastion Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Deathwatch",
+    "name": "Black Spear Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Deathwatch",
+    "name": "Ceramite Sentinels",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Deathwatch",
+    "name": "Firestorm Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Deathwatch",
+    "name": "Fulguris Task Force",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Deathwatch",
+    "name": "Gladius Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Deathwatch",
+    "name": "Headhunter Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Deathwatch",
+    "name": "Ironstorm Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Deathwatch",
+    "name": "Librarius Conclave",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Deathwatch",
+    "name": "Orbital Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Deathwatch",
+    "name": "Stormlance Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Deathwatch",
+    "name": "Subversion Assets",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Deathwatch",
+    "name": "Vanguard Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Drukhari",
+    "name": "Covenite Coterie",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Drukhari",
+    "name": "Exhibition of Slaughter",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Drukhari",
+    "name": "Kabalite Agonysts",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Drukhari",
+    "name": "Kabalite Cartel",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Drukhari",
+    "name": "Realspace Raiders",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Drukhari",
+    "name": "Reaper's Wager",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Drukhari",
+    "name": "Skysplinter Assault",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Drukhari",
+    "name": "Spectacle of Spite",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Drukhari",
+    "name": "Tools of Torment",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Emperor's Children",
+    "name": "Carnival of Excess",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Emperor's Children",
+    "name": "Coterie of the Conceited",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Emperor's Children",
+    "name": "Court of the Phoenician",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Emperor's Children",
+    "name": "Elegant Brutes",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Emperor's Children",
+    "name": "Frenzied Host",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Emperor's Children",
+    "name": "Mercurial Host",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Emperor's Children",
+    "name": "Peerless Bladesmen",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Emperor's Children",
+    "name": "Rapid Evisceration",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Emperor's Children",
+    "name": "Slaanesh's Chosen",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Emperor's Children",
+    "name": "Spectacle of Slaughter",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Genestealer Cults",
+    "name": "Biosanctic Broodsurge",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Genestealer Cults",
+    "name": "Brood Brothers Auxilia",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Genestealer Cults",
+    "name": "Final Day",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Genestealer Cults",
+    "name": "Heroes of the Uprising",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Genestealer Cults",
+    "name": "Host of Ascension",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Genestealer Cults",
+    "name": "Outlander Claw",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Genestealer Cults",
+    "name": "Purestrain Broodswarm",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Genestealer Cults",
+    "name": "Xenocreed Congregation",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Genestealer Cults",
+    "name": "Xenocult Masses",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Grey Knights",
+    "name": "Argent Assault",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Grey Knights",
+    "name": "Augurium Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Grey Knights",
+    "name": "Banishers",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Grey Knights",
+    "name": "Brotherhood Strike",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Grey Knights",
+    "name": "Fires of Purgation",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Grey Knights",
+    "name": "Hallowed Conclave",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Grey Knights",
+    "name": "Immaterial Interdiction",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Grey Knights",
+    "name": "Sanctic Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Grey Knights",
+    "name": "Warpbane Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Agents of the Imperium",
+    "name": "Imperialis Fleet",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Agents of the Imperium",
+    "name": "Ordo Hereticus, Purgation Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Agents of the Imperium",
+    "name": "Ordo Malleus, Daemon Hunters",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Agents of the Imperium",
+    "name": "Ordo Xenos, Alien Hunters",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Agents of the Imperium",
+    "name": "Veiled Blade Elimination Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Knights",
+    "name": "Dominus Foebreakers",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Knights",
+    "name": "Freeblade Company",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Knights",
+    "name": "Gate Warden Lance",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Knights",
+    "name": "Questor Forgepact",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Knights",
+    "name": "Questoris Companions",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Knights",
+    "name": "Spearhead-At-Arms",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Knights",
+    "name": "Throne-Bonded Outriders",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Knights",
+    "name": "Valourstrike Lance",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Leagues of Votann",
+    "name": "Armoured Trailblazers",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Leagues of Votann",
+    "name": "Brandfast Oathband",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Leagues of Votann",
+    "name": "Dêlve Assault Shift",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Leagues of Votann",
+    "name": "Farseekers",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Leagues of Votann",
+    "name": "Hearthband",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Leagues of Votann",
+    "name": "Hearthfyre Arsenal",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Leagues of Votann",
+    "name": "Hearthguard Covenant",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Leagues of Votann",
+    "name": "Mercenary Oathband",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Leagues of Votann",
+    "name": "Needgaârd Oathband",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Leagues of Votann",
+    "name": "Persecution Prospect",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Necrons",
+    "name": "Annihilation Legion",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Necrons",
+    "name": "Awakened Dynasty",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Necrons",
+    "name": "Canoptek Court",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Necrons",
+    "name": "Cryptek Conclave",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Necrons",
+    "name": "Cursed Legion",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Necrons",
+    "name": "Hand of the Dynasty",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Necrons",
+    "name": "Hypercrypt Legion",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Necrons",
+    "name": "Obeisance Phalanx",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Necrons",
+    "name": "Pantheon of Woe",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Necrons",
+    "name": "Skyshroud Spearhead",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Necrons",
+    "name": "Starshatter Arsenal",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Necrons",
+    "name": "The Phaeron's Armoury",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Orks",
+    "name": "Blitz Brigade",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Orks",
+    "name": "Bully Boyz",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Orks",
+    "name": "Da Big Hunt",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Orks",
+    "name": "Dread Mob",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Orks",
+    "name": "Freebooter Krew",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Orks",
+    "name": "Green Tide",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Orks",
+    "name": "Kult of Speed",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Orks",
+    "name": "More Dakka!",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Orks",
+    "name": "Rollin' Deff",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Orks",
+    "name": "Speedwaaagh!",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Orks",
+    "name": "Taktikal Brigade",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Orks",
+    "name": "War Horde",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "1st Company Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Anvil Siege Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Armoured Speartip",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Bastion Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Blade of Ultramar",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Ceramite Sentinels",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Emperor's Shield",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Firestorm Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Forgefather's Seekers",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Fulguris Task Force",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Gladius Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Hammer of Avernii",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Headhunter Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Ironstorm Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Librarius Conclave",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Orbital Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Reclamation Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Shadowmark Talon",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Spearpoint Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Stormlance Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Subversion Assets",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Marines",
+    "name": "Vanguard Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "1st Company Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Anvil Siege Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Armoured Speartip",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Bastion Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Ceramite Sentinels",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Champions of Fenris",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Firestorm Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Fulguris Task Force",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Gladius Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Headhunter Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Ironstorm Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Legends of Saga and Song",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Librarius Conclave",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Orbital Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Saga of the Beastslayer",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Saga of the Bold",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Saga of the Great Wolf",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Saga of the Hunter",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Stormlance Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Subversion Assets",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Vanguard Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Space Wolves",
+    "name": "Veterans of the Fang",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "T'au Empire",
+    "name": "Advanced Acquisition Cadre",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "T'au Empire",
+    "name": "Auxiliary Cadre",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "T'au Empire",
+    "name": "Experimental Prototype Cadre",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "T'au Empire",
+    "name": "Kauyon",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "T'au Empire",
+    "name": "Kroot Hunting Pack",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "T'au Empire",
+    "name": "Mont'Ka",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "T'au Empire",
+    "name": "Retaliation Cadre",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Thousand Sons",
+    "name": "Changehost of Deceit",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Thousand Sons",
+    "name": "Grand Coven",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Thousand Sons",
+    "name": "Hexwarp Thrallband",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Thousand Sons",
+    "name": "Ritual of Regeneration",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Thousand Sons",
+    "name": "Rubricae Phalanx",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Thousand Sons",
+    "name": "Sekhetar Cohort",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Thousand Sons",
+    "name": "Servants of Change",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Thousand Sons",
+    "name": "Warpforged Cabal",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Thousand Sons",
+    "name": "Warpmeld Pact",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Tyranids",
+    "name": "Ambush Predators",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Tyranids",
+    "name": "Assimilation Swarm",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Tyranids",
+    "name": "Crusher Stampede",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Tyranids",
+    "name": "Invasion Fleet",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Tyranids",
+    "name": "Subterranean Assault",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Tyranids",
+    "name": "Synaptic Nexus",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Tyranids",
+    "name": "Talons of the Norn Queen",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Tyranids",
+    "name": "Unending Swarm",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Tyranids",
+    "name": "Vanguard Onslaught",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Tyranids",
+    "name": "Warrior Bioform Onslaught",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "World Eaters",
+    "name": "Berzerker Warband",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "World Eaters",
+    "name": "Brazen Engines",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "World Eaters",
+    "name": "Butchers of Khorne",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "World Eaters",
+    "name": "Cult of Blood",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "World Eaters",
+    "name": "Goretrack Onslaught",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "World Eaters",
+    "name": "Khorne Daemonkin",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "World Eaters",
+    "name": "Possessed Slaughterband",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "World Eaters",
+    "name": "Vessels of Wrath",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "1st Company Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Anvil Siege Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Armoured Speartip",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Bastion Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Blade of Ultramar",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Ceramite Sentinels",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Emperor's Shield",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Firestorm Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Forgefather's Seekers",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Fulguris Task Force",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Gladius Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Hammer of Avernii",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Headhunter Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Ironstorm Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Librarius Conclave",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Orbital Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Reclamation Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Shadowmark Talon",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Spearpoint Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Stormlance Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Subversion Assets",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Ultramarines",
+    "name": "Vanguard Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "1st Company Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Anvil Siege Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Armoured Speartip",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Bastion Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Blade of Ultramar",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Ceramite Sentinels",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Emperor's Shield",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Firestorm Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Forgefather's Seekers",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Fulguris Task Force",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Gladius Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Hammer of Avernii",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Headhunter Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Ironstorm Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Librarius Conclave",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Orbital Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Reclamation Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Shadowmark Talon",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Spearpoint Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Stormlance Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Subversion Assets",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Imperial Fists",
+    "name": "Vanguard Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "1st Company Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Anvil Siege Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Armoured Speartip",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Bastion Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Blade of Ultramar",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Ceramite Sentinels",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Emperor's Shield",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Firestorm Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Forgefather's Seekers",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Fulguris Task Force",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Gladius Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Hammer of Avernii",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Headhunter Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Ironstorm Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Librarius Conclave",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Orbital Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Reclamation Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Shadowmark Talon",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Spearpoint Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Stormlance Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Subversion Assets",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "White Scars",
+    "name": "Vanguard Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "1st Company Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Anvil Siege Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Armoured Speartip",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Bastion Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Blade of Ultramar",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Ceramite Sentinels",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Emperor's Shield",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Firestorm Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Forgefather's Seekers",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Fulguris Task Force",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Gladius Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Hammer of Avernii",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Headhunter Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Ironstorm Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Librarius Conclave",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Orbital Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Reclamation Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Shadowmark Talon",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Spearpoint Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Stormlance Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Subversion Assets",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Raven Guard",
+    "name": "Vanguard Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "1st Company Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Anvil Siege Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Armoured Speartip",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Bastion Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Blade of Ultramar",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Ceramite Sentinels",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Emperor's Shield",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Firestorm Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Forgefather's Seekers",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Fulguris Task Force",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Gladius Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Hammer of Avernii",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Headhunter Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Ironstorm Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Librarius Conclave",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Orbital Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Reclamation Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Shadowmark Talon",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Spearpoint Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Stormlance Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Subversion Assets",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Salamanders",
+    "name": "Vanguard Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "1st Company Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Anvil Siege Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Armoured Speartip",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Bastion Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Blade of Ultramar",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Ceramite Sentinels",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Emperor's Shield",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Firestorm Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Forgefather's Seekers",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Fulguris Task Force",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Gladius Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Hammer of Avernii",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Headhunter Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Priority Assets"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Ironstorm Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Purge the Foe"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Librarius Conclave",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Orbital Assault Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Reclamation Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Take and Hold"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Shadowmark Talon",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Spearpoint Task Force",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Stormlance Task Force",
+    "dp_cost": 3,
+    "tags": [],
+    "dispositions": [
+      "Disruption"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Subversion Assets",
+    "dp_cost": 1,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  },
+  {
+    "faction": "Iron Hands",
+    "name": "Vanguard Spearhead",
+    "dp_cost": 2,
+    "tags": [],
+    "dispositions": [
+      "Reconnaissance"
+    ],
+    "rule_text": null,
+    "source": null,
+    "notes": null
+  }
+]
