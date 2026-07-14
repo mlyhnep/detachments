@@ -5397,7 +5397,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Veteran-heavy elite build leaning on Terminators and Vanguard/Sternguard Veterans for a small, hard-hitting elite core."
   },
   {
     "faction": "Iron Hands",
@@ -5409,7 +5409,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Defensive gunline built around Devastators and fortified backfield firepower that punishes anyone advancing on you."
   },
   {
     "faction": "Iron Hands",
@@ -5421,7 +5421,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Tank-led spearhead built around Repulsors, Land Raiders and other vehicles pushing as a hard-to-kill armoured wall."
   },
   {
     "faction": "Iron Hands",
@@ -5433,7 +5433,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Objective-holding defensive build favouring Infantry squads and fortifications that dig in and grind out board control."
   },
   {
     "faction": "Iron Hands",
@@ -5445,7 +5445,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Ultramarines-flavoured combined-arms build emphasising tactical flexibility and doctrine-style buffs across the army."
   },
   {
     "faction": "Iron Hands",
@@ -5457,7 +5457,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Durability-focused build leaning on Terminators, Gravis-armoured units and other high-toughness infantry that's hard to shift."
   },
   {
     "faction": "Iron Hands",
@@ -5469,7 +5469,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Command-and-control build built around characters and elite escorts protecting key objectives."
   },
   {
     "faction": "Iron Hands",
@@ -5481,7 +5481,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Aggressive alpha-strike build using fast-moving assault units (Assault Terminators, jump-pack infantry) to hit hard early."
   },
   {
     "faction": "Iron Hands",
@@ -5493,7 +5493,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Techmarine/vehicle-support build focused on keeping a mechanised force running and repaired through a grinding game."
   },
   {
     "faction": "Iron Hands",
@@ -5505,7 +5505,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast, disruptive build built around bikes and skimmers harassing the enemy's rear and objectives."
   },
   {
     "faction": "Iron Hands",
@@ -5517,7 +5517,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "The generic all-comers combined arms build with buffed Oath of Moment-style target priority, works with almost any unit mix."
   },
   {
     "faction": "Iron Hands",
@@ -5529,7 +5529,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Siege-flavoured build combining heavy vehicles and infantry to crack fortified enemy positions."
   },
   {
     "faction": "Iron Hands",
@@ -5541,7 +5541,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Character-hunting build using elite melee units and snipers to remove key enemy models."
   },
   {
     "faction": "Iron Hands",
@@ -5553,7 +5553,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Vehicle-heavy rapid advance build pairing tanks with mounted infantry for an aggressive, mobile push."
   },
   {
     "faction": "Iron Hands",
@@ -5565,7 +5565,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Psyker-centric build built around Librarians stacking psychic buffs across the army."
   },
   {
     "faction": "Iron Hands",
@@ -5577,7 +5577,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Deep strike-heavy build dropping Terminators and other reserve units directly into the fight."
   },
   {
     "faction": "Iron Hands",
@@ -5589,7 +5589,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Objective-secure build using durable infantry to hold and reclaim ground through a grinding mid-game."
   },
   {
     "faction": "Iron Hands",
@@ -5601,7 +5601,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Recon/vanguard build using scouts and fast skirmishers to control the board's edges and screen key objectives."
   },
   {
     "faction": "Iron Hands",
@@ -5613,7 +5613,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Focused strike-force build concentrating firepower and melee threats on a single priority target each turn."
   },
   {
     "faction": "Iron Hands",
@@ -5625,7 +5625,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast cavalry/bike-led build built for turn-one aggression and rapid objective grabs."
   },
   {
     "faction": "Iron Hands",
@@ -5637,7 +5637,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Infiltration and disruption build using scouts and stealth units to seize backfield objectives."
   },
   {
     "faction": "Iron Hands",
@@ -5649,6 +5649,6 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast skirmish build using Outriders and light vehicles to control the mid-board early."
   }
 ]
