@@ -1,4 +1,5 @@
 import { Suspense } from "react";
+import Link from "next/link";
 import SiteNav from "@/app/components/SiteNav";
 import { createClient } from "@/lib/supabase/server";
 import type { Detachment, Disposition, Faction } from "@/lib/types";
@@ -33,9 +34,16 @@ export default async function DetachmentsPage({
 
   const supabase = await createClient();
 
-  const [{ data: factions }, { data: dispositions }] = await Promise.all([
+  const [
+    { data: factions },
+    { data: dispositions },
+    {
+      data: { user },
+    },
+  ] = await Promise.all([
     supabase.from("factions").select("*").order("name"),
     supabase.from("dispositions").select("*").order("id"),
+    supabase.auth.getUser(),
   ]);
 
   let query = supabase.from("detachments").select("*").order("name");
@@ -107,6 +115,18 @@ export default async function DetachmentsPage({
                         </span>
                       ))}
                     </div>
+                  )}
+                  {d.notes && <p className="mt-2 text-xs text-gray-400">{d.notes}</p>}
+                  {d.rule_text && (
+                    <p className="mt-2 whitespace-pre-wrap text-xs text-gray-300">{d.rule_text}</p>
+                  )}
+                  {user && (
+                    <Link
+                      href={`/admin/detachments/${d.id}/edit`}
+                      className="mt-2 inline-block text-xs text-gray-500 hover:text-white transition-colors"
+                    >
+                      Edit rule text
+                    </Link>
                   )}
                 </div>
               ))}

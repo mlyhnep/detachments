@@ -105,7 +105,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Elite melee build built around Blade Champions and small, extremely durable strike squads."
   },
   {
     "faction": "Adeptus Custodes",
@@ -117,7 +117,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast, aggressive build using Custodian Guard and jetbikes to strike hard and early."
   },
   {
     "faction": "Adeptus Custodes",
@@ -129,7 +129,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Vehicle and Dreadnought-flavoured build built around heavy Custodes war machines."
   },
   {
     "faction": "Adeptus Custodes",
@@ -141,7 +141,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Anti-psyker/anti-deep strike build built around Sisters of Silence support."
   },
   {
     "faction": "Adeptus Custodes",
@@ -153,7 +153,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Defensive elite build built around Custodian Guard shieldwalls holding key objectives."
   },
   {
     "faction": "Adeptus Custodes",
@@ -165,7 +165,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Recon-flavoured build using fast Custodes units and Sisters of Silence to control the board."
   },
   {
     "faction": "Adeptus Custodes",
@@ -177,7 +177,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Vehicle-led spearhead build using Custodes tanks and walkers as a durable armoured push."
   },
   {
     "faction": "Adeptus Custodes",
@@ -189,7 +189,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Elite combined build blending Custodian Guard with Sisters of Silence for a small, elite army."
   },
   {
     "faction": "Adeptus Custodes",
@@ -201,7 +201,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Terminator-equivalent heavy infantry build maximising Custodes durability and melee power."
   },
   {
     "faction": "Adeptus Mechanicus",
@@ -333,7 +333,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Wraith construct and vehicle-heavy build built around durable, hard-hitting Aeldari war machines."
   },
   {
     "faction": "Aeldari",
@@ -345,7 +345,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Aspect Warrior-focused build maximising the specialised roles of different Aspect shrines."
   },
   {
     "faction": "Aeldari",
@@ -357,7 +357,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast, opportunistic build built around Corsair raiders striking and withdrawing quickly."
   },
   {
     "faction": "Aeldari",
@@ -369,7 +369,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Death-god flavoured build built around Ynnari-style resilience and vengeance mechanics."
   },
   {
     "faction": "Aeldari",
@@ -381,7 +381,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast strike build using Guardians and light vehicles for hit-and-run objective plays."
   },
   {
     "faction": "Aeldari",
@@ -393,7 +393,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Harlequin-flavoured build using misdirection and speed to outmanoeuvre the enemy."
   },
   {
     "faction": "Aeldari",
@@ -405,7 +405,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Stealth and mobility build using webway portals and fast units to appear where least expected."
   },
   {
     "faction": "Aeldari",
@@ -417,7 +417,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Guardian-heavy defensive build built around a citizen militia holding key objectives."
   },
   {
     "faction": "Aeldari",
@@ -429,7 +429,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Ranger and outcast-flavoured build using stealthy, independent units to control the board."
   },
   {
     "faction": "Aeldari",
@@ -441,7 +441,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Psyker-centric build built around Farseers and Warlocks stacking foresight-based buffs."
   },
   {
     "faction": "Aeldari",
@@ -453,7 +453,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Wave Serpent-led mechanised build transporting Aspect Warriors safely into position."
   },
   {
     "faction": "Aeldari",
@@ -465,7 +465,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Ancestor-spirit flavoured build built around Wraith constructs guided by Spiritseers."
   },
   {
     "faction": "Aeldari",
@@ -477,7 +477,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast, evasive build maximising Aeldari mobility to control engagements on your terms."
   },
   {
     "faction": "Aeldari",
@@ -489,7 +489,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Generic all-comers Aeldari build flexible enough to fit most Craftworld unit mixes."
   },
   {
     "faction": "Aeldari",
@@ -501,7 +501,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Jetbike-heavy build maximising speed and mobility for a fast-moving Craftworld army."
   },
   {
     "faction": "Astra Militarum",
@@ -645,7 +645,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Defensive gunline build using Devastators and fortified positions to grind down attackers."
   },
   {
     "faction": "Black Templars",
@@ -657,7 +657,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Tank-led spearhead using Land Raiders and Vindicators as a durable armoured wall."
   },
   {
     "faction": "Black Templars",
@@ -669,7 +669,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Objective-holding defensive build favouring Sword Brethren and Crusader squads digging in."
   },
   {
     "faction": "Black Templars",
@@ -681,7 +681,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Durability build leaning on Terminators and Gravis-armoured units that soak damage well."
   },
   {
     "faction": "Black Templars",
@@ -693,7 +693,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Melee-heavy build built around Sword Brethren and Emperor's Champion-style duelist characters."
   },
   {
     "faction": "Black Templars",
@@ -705,7 +705,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Aggressive alpha-strike build using assault infantry to hit hard turn one."
   },
   {
     "faction": "Black Templars",
@@ -717,7 +717,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast, disruptive build built around bikes harassing objectives and the backfield."
   },
   {
     "faction": "Black Templars",
@@ -729,7 +729,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Generic all-comers combined arms build with flexible target-priority buffs."
   },
   {
     "faction": "Black Templars",
@@ -741,7 +741,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Righteous-zeal melee build channelling Crusader squads straight at the enemy line."
   },
   {
     "faction": "Black Templars",
@@ -753,7 +753,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Character-hunting build using elite melee units to remove key enemy models quickly."
   },
   {
     "faction": "Black Templars",
@@ -765,7 +765,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Vehicle-heavy rapid advance build pairing tanks with mounted Crusaders for an aggressive push."
   },
   {
     "faction": "Black Templars",
@@ -777,7 +777,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Command-focused build built around the Chapter's Marshal and his personal honour guard."
   },
   {
     "faction": "Black Templars",
@@ -789,7 +789,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Deep strike-heavy build dropping Terminators and Crusaders directly into the fight."
   },
   {
     "faction": "Black Templars",
@@ -801,7 +801,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast cavalry/bike-led build for turn-one aggression and rapid objective grabs."
   },
   {
     "faction": "Black Templars",
@@ -813,7 +813,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Infiltration build using scouts and stealth units to seize backfield objectives."
   },
   {
     "faction": "Black Templars",
@@ -825,7 +825,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Faith-fuelled resilience build that keeps fighting past the point most armies would fall back."
   },
   {
     "faction": "Black Templars",
@@ -837,7 +837,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast skirmish build using bikes and light vehicles to control the mid-board early."
   },
   {
     "faction": "Black Templars",
@@ -849,7 +849,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Zealous melee-forward build built around close-combat Crusader squads and duelist characters."
   },
   {
     "faction": "Black Templars",
@@ -861,7 +861,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Slow, grinding advance build that gets more dangerous in close combat the longer the fight goes."
   },
   {
     "faction": "Blood Angels",
@@ -873,7 +873,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Veteran-heavy elite build leaning on Terminators and jump-pack Veterans for a small, punchy elite core."
   },
   {
     "faction": "Blood Angels",
@@ -885,7 +885,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Successor-chapter flavoured build built around aggressive close-combat characters leading from the front."
   },
   {
     "faction": "Blood Angels",
@@ -897,7 +897,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Defensive gunline build using Devastators and fortified positions to grind down attackers."
   },
   {
     "faction": "Blood Angels",
@@ -909,7 +909,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Tank-led spearhead using Baal Predators and Land Raiders as a durable armoured wall."
   },
   {
     "faction": "Blood Angels",
@@ -921,7 +921,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Objective-holding defensive build favouring Infantry squads digging in for board control."
   },
   {
     "faction": "Blood Angels",
@@ -933,7 +933,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Durability build leaning on Terminators and Gravis-armoured units that soak damage well."
   },
   {
     "faction": "Blood Angels",
@@ -945,7 +945,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Elite melee build centred on Sanguinary Guard and jump-pack heroes for a fast, hard-hitting strike force."
   },
   {
     "faction": "Blood Angels",
@@ -957,7 +957,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Aggressive alpha-strike build using Death Company and assault infantry to hit hard turn one."
   },
   {
     "faction": "Blood Angels",
@@ -969,7 +969,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast, disruptive build built around bikes and skimmers harassing objectives and backfield."
   },
   {
     "faction": "Blood Angels",
@@ -981,7 +981,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Generic all-comers combined arms build with flexible target-priority buffs, works with most unit mixes."
   },
   {
     "faction": "Blood Angels",
@@ -993,7 +993,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Character-hunting build using elite melee units to remove key enemy models quickly."
   },
   {
     "faction": "Blood Angels",
@@ -1005,7 +1005,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Vehicle-heavy rapid advance build pairing tanks with mounted infantry for an aggressive push."
   },
   {
     "faction": "Blood Angels",
@@ -1017,7 +1017,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Character-focused build built around named heroes and their personal retinues."
   },
   {
     "faction": "Blood Angels",
@@ -1029,7 +1029,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Jump-pack assault build using Death Company and Assault Marines to swarm the enemy in melee."
   },
   {
     "faction": "Blood Angels",
@@ -1041,7 +1041,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Psyker-centric build built around Librarians and Sanguinary Priests stacking buffs."
   },
   {
     "faction": "Blood Angels",
@@ -1053,7 +1053,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Deep strike-heavy build dropping Terminators and jump troops directly into the fight."
   },
   {
     "faction": "Blood Angels",
@@ -1065,7 +1065,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "All-out melee aggression build leaning into Death Company's bloodlust for maximum close-combat output."
   },
   {
     "faction": "Blood Angels",
@@ -1077,7 +1077,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast cavalry/bike-led build for turn-one aggression and rapid objective grabs."
   },
   {
     "faction": "Blood Angels",
@@ -1089,7 +1089,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Infiltration build using scouts and stealth units to seize backfield objectives."
   },
   {
     "faction": "Blood Angels",
@@ -1101,7 +1101,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Flying/jump-pack build maximising mobility with Sanguinary Guard-style aerial assault units."
   },
   {
     "faction": "Blood Angels",
@@ -1113,7 +1113,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Death Company-flavoured build channelling the Chapter's tragic berserker aspect into a melee-heavy force."
   },
   {
     "faction": "Blood Angels",
@@ -1125,7 +1125,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast skirmish build using Outriders and light vehicles to control the mid-board early."
   },
   {
     "faction": "Blood Angels",
@@ -1137,7 +1137,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Aggressive melee build built around characters that get stronger as the battle turns against them."
   },
   {
     "faction": "Chaos Daemons",
@@ -1353,7 +1353,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Sorcerer-led psyker build stacking daemonic/psychic buffs across a Chaos Space Marine core."
   },
   {
     "faction": "Chaos Space Marines",
@@ -1365,7 +1365,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Cultist-heavy horde build using cheap infantry bodies to screen and swarm objectives."
   },
   {
     "faction": "Chaos Space Marines",
@@ -1377,7 +1377,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fabius Bile-flavoured build built around augmented, mutated close-combat units."
   },
   {
     "faction": "Chaos Space Marines",
@@ -1389,7 +1389,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Dark mechanical/possessed-vehicle build blending daemon engines with Chaos Space Marine infantry."
   },
   {
     "faction": "Chaos Space Marines",
@@ -1401,7 +1401,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Infiltration and misdirection build using stealthy units to disrupt enemy deployment and objectives."
   },
   {
     "faction": "Chaos Space Marines",
@@ -1413,7 +1413,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Aggressive melee-forward build leaning on close-combat specialists and daemon-touched units."
   },
   {
     "faction": "Chaos Space Marines",
@@ -1425,7 +1425,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Raptor/Warp Talon-led build maximising fast, deep-striking assault units."
   },
   {
     "faction": "Chaos Space Marines",
@@ -1437,7 +1437,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Vehicle and heavy-weapon siege build geared toward cracking fortified enemy positions."
   },
   {
     "faction": "Chaos Space Marines",
@@ -1449,7 +1449,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Raider-flavoured build built around opportunistic strikes and looted resources."
   },
   {
     "faction": "Chaos Space Marines",
@@ -1461,7 +1461,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast raiding build using bikes and fast attack units to hit-and-fade across the board."
   },
   {
     "faction": "Chaos Space Marines",
@@ -1473,7 +1473,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Terror-tactics build using stealthy, unsettling units to pick off isolated enemy squads."
   },
   {
     "faction": "Chaos Space Marines",
@@ -1485,7 +1485,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Cultist-and-daemon hybrid build leaning into swarm numbers backed by dark blessings."
   },
   {
     "faction": "Chaos Space Marines",
@@ -1497,7 +1497,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast, mobile raiding build prioritising speed and hit-and-run objective plays."
   },
   {
     "faction": "Chaos Space Marines",
@@ -1509,7 +1509,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Generic Chaos combined-arms build flexible enough to fit most Chaos Space Marine unit mixes."
   },
   {
     "faction": "Chaos Space Marines",
@@ -1521,7 +1521,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Daemon engine and vehicle-heavy build built around possessed war machines."
   },
   {
     "faction": "Chaos Space Marines",
@@ -1533,7 +1533,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Grizzled elite build built around long-service Chosen and veteran squads."
   },
   {
     "faction": "Chaos Space Marines",
@@ -1545,7 +1545,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Character-led melee build built around Chaos Lords and their elite retinues striking key targets."
   },
   {
     "faction": "Dark Angels",
@@ -1833,7 +1833,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Character-led build built around Nurgle champions spreading disease-themed debuffs."
   },
   {
     "faction": "Death Guard",
@@ -1845,7 +1845,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Vehicle and daemon-engine build built around plague-touched war machines grinding forward."
   },
   {
     "faction": "Death Guard",
@@ -1857,7 +1857,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Elite Terminator/Deathshroud build protecting a central Nurgle Lord or Daemon Prince."
   },
   {
     "faction": "Death Guard",
@@ -1869,7 +1869,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Swarm-flavoured build using cheap plague zombie-style bodies to smother objectives."
   },
   {
     "faction": "Death Guard",
@@ -1881,7 +1881,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Primarch-flavoured heavy assault build maximising Death Guard's slow, unstoppable advance."
   },
   {
     "faction": "Death Guard",
@@ -1893,7 +1893,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Character-focused build built around named Nurgle heroes and their personal resilience."
   },
   {
     "faction": "Death Guard",
@@ -1905,7 +1905,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Slow, attrition-based build that wears the enemy down through disease and unkillable infantry."
   },
   {
     "faction": "Death Guard",
@@ -1917,7 +1917,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Daemon-summoning build blending Death Guard infantry with Nurgle daemon reinforcements."
   },
   {
     "faction": "Death Guard",
@@ -1929,7 +1929,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Vehicle-and-infantry attrition build designed to out-endure the enemy across a long grinding game."
   },
   {
     "faction": "Deathwatch",
@@ -2241,7 +2241,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Sonic/noise-themed build built around excess and battlefield spectacle debuffing the enemy."
   },
   {
     "faction": "Emperor's Children",
@@ -2253,7 +2253,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Character-led elite build built around Noise Marine champions and their retinues."
   },
   {
     "faction": "Emperor's Children",
@@ -2265,7 +2265,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Command-focused build built around a central Chaos Lord or Daemon Prince and elite escorts."
   },
   {
     "faction": "Emperor's Children",
@@ -2277,7 +2277,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Melee-forward build pairing Noise Marines with fast assault units for a stylish, aggressive push."
   },
   {
     "faction": "Emperor's Children",
@@ -2289,7 +2289,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Cultist and Chaos Spawn-heavy build using disposable bodies to screen the elite core."
   },
   {
     "faction": "Emperor's Children",
@@ -2301,7 +2301,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast, unpredictable build leaning on mobility and misdirection across the board."
   },
   {
     "faction": "Emperor's Children",
@@ -2313,7 +2313,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Elite duelist build built around single combat specialists hunting enemy characters."
   },
   {
     "faction": "Emperor's Children",
@@ -2325,7 +2325,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Alpha-strike melee build maximising turn-one charges from Noise Marines and assault units."
   },
   {
     "faction": "Emperor's Children",
@@ -2337,7 +2337,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Daemon-aligned build blending Emperor's Children infantry with Slaanesh daemon reinforcements."
   },
   {
     "faction": "Emperor's Children",
@@ -2349,7 +2349,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Sonic weapon-focused ranged build using Noise Marine firepower to soften targets before the charge."
   },
   {
     "faction": "Genestealer Cults",
@@ -2853,7 +2853,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Firepower-focused build built around Immortals and heavy weapon squads laying down ranged damage."
   },
   {
     "faction": "Necrons",
@@ -2865,7 +2865,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Resurrection-themed build maximising the Reanimation Protocols mechanic across the army."
   },
   {
     "faction": "Necrons",
@@ -2877,7 +2877,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Canoptek construct-heavy build built around Tomb Spyders, Wraiths and other automated war machines."
   },
   {
     "faction": "Necrons",
@@ -2889,7 +2889,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Character-led build built around Cryptek support pieces buffing the wider army."
   },
   {
     "faction": "Necrons",
@@ -2901,7 +2901,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Elite, ancient-warrior flavoured build built around Lychguard/Triarch Praetorian-style close protection."
   },
   {
     "faction": "Necrons",
@@ -2913,7 +2913,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Command-focused build built around an Overlord or Phaeron and their court of supporting characters."
   },
   {
     "faction": "Necrons",
@@ -2925,7 +2925,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Deep strike/teleport-heavy build using Tomb Blades and reserve units to strike unpredictably."
   },
   {
     "faction": "Necrons",
@@ -2937,7 +2937,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Slow, grinding gunline build built around Warrior/Immortal blocks advancing inexorably."
   },
   {
     "faction": "Necrons",
@@ -2949,7 +2949,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "C'tan-flavoured build built around a Shard of a C'tan God leading a supporting force."
   },
   {
     "faction": "Necrons",
@@ -2961,7 +2961,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast attack build using Tomb Blades and Canoptek Wraiths for rapid objective control."
   },
   {
     "faction": "Necrons",
@@ -2973,7 +2973,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Heavy vehicle build built around Doomsday Arks and other high-damage Necron war machines."
   },
   {
     "faction": "Necrons",
@@ -2985,7 +2985,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Vehicle and construct-heavy build showcasing the dynasty's most powerful war machines."
   },
   {
     "faction": "Orks",
@@ -2997,7 +2997,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Vehicle-and-infantry combined arms build for an aggressive, chaotic all-out advance."
   },
   {
     "faction": "Orks",
@@ -3009,7 +3009,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Big mob melee build built around large squads of Boyz smashing into the enemy line."
   },
   {
     "faction": "Orks",
@@ -3021,7 +3021,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Character-hunting build built around fast, elite units chasing down enemy heroes."
   },
   {
     "faction": "Orks",
@@ -3033,7 +3033,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Gorkanaut/Dreadnought-flavoured build built around big walkers leading the Waaagh!."
   },
   {
     "faction": "Orks",
@@ -3045,7 +3045,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Loot-and-raid flavoured build using fast, opportunistic units to grab objectives and resources."
   },
   {
     "faction": "Orks",
@@ -3057,7 +3057,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Classic horde build maximising boots-on-the-ground Ork infantry numbers to swamp the enemy."
   },
   {
     "faction": "Orks",
@@ -3069,7 +3069,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Vehicle-and-bike speed build maximising mobility for a fast, aggressive Waaagh!."
   },
   {
     "faction": "Orks",
@@ -3081,7 +3081,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Shooting-focused build maximising ranged firepower from Ork gun lines and vehicles."
   },
   {
     "faction": "Orks",
@@ -3093,7 +3093,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Vehicle-heavy build built around a rolling wall of trukks, buggies and battlewagons."
   },
   {
     "faction": "Orks",
@@ -3105,7 +3105,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "All-vehicle speed build built for maximum mobility and turn-one aggression."
   },
   {
     "faction": "Orks",
@@ -3117,7 +3117,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Combined arms build balancing infantry, vehicles and characters for flexible list building."
   },
   {
     "faction": "Orks",
@@ -3129,7 +3129,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Generic all-comers Ork build flexible enough to fit most unit mixes."
   },
   {
     "faction": "Space Marines",
@@ -3141,7 +3141,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Veteran-heavy elite build leaning on Terminators and Vanguard/Sternguard Veterans for a small, hard-hitting elite core."
   },
   {
     "faction": "Space Marines",
@@ -3153,7 +3153,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Defensive gunline built around Devastators and fortified backfield firepower that punishes anyone advancing on you."
   },
   {
     "faction": "Space Marines",
@@ -3165,7 +3165,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Tank-led spearhead built around Repulsors, Land Raiders and other vehicles pushing as a hard-to-kill armoured wall."
   },
   {
     "faction": "Space Marines",
@@ -3177,7 +3177,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Objective-holding defensive build favouring Infantry squads and fortifications that dig in and grind out board control."
   },
   {
     "faction": "Space Marines",
@@ -3189,7 +3189,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Ultramarines-flavoured combined-arms build emphasising tactical flexibility and doctrine-style buffs across the army."
   },
   {
     "faction": "Space Marines",
@@ -3201,7 +3201,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Durability-focused build leaning on Terminators, Gravis-armoured units and other high-toughness infantry that's hard to shift."
   },
   {
     "faction": "Space Marines",
@@ -3213,7 +3213,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Command-and-control build built around characters and elite escorts protecting key objectives."
   },
   {
     "faction": "Space Marines",
@@ -3225,7 +3225,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Aggressive alpha-strike build using fast-moving assault units (Assault Terminators, jump-pack infantry) to hit hard early."
   },
   {
     "faction": "Space Marines",
@@ -3237,7 +3237,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Techmarine/vehicle-support build focused on keeping a mechanised force running and repaired through a grinding game."
   },
   {
     "faction": "Space Marines",
@@ -3249,7 +3249,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast, disruptive build built around bikes and skimmers harassing the enemy's rear and objectives."
   },
   {
     "faction": "Space Marines",
@@ -3261,7 +3261,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "The generic all-comers combined arms build with buffed Oath of Moment-style target priority, works with almost any unit mix."
   },
   {
     "faction": "Space Marines",
@@ -3273,7 +3273,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Siege-flavoured build combining heavy vehicles and infantry to crack fortified enemy positions."
   },
   {
     "faction": "Space Marines",
@@ -3285,7 +3285,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Character-hunting build using elite melee units and snipers to remove key enemy models."
   },
   {
     "faction": "Space Marines",
@@ -3297,7 +3297,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Vehicle-heavy rapid advance build pairing tanks with mounted infantry for an aggressive, mobile push."
   },
   {
     "faction": "Space Marines",
@@ -3309,7 +3309,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Psyker-centric build built around Librarians stacking psychic buffs across the army."
   },
   {
     "faction": "Space Marines",
@@ -3321,7 +3321,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Deep strike-heavy build dropping Terminators and other reserve units directly into the fight."
   },
   {
     "faction": "Space Marines",
@@ -3333,7 +3333,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Objective-secure build using durable infantry to hold and reclaim ground through a grinding mid-game."
   },
   {
     "faction": "Space Marines",
@@ -3345,7 +3345,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Recon/vanguard build using scouts and fast skirmishers to control the board's edges and screen key objectives."
   },
   {
     "faction": "Space Marines",
@@ -3357,7 +3357,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Focused strike-force build concentrating firepower and melee threats on a single priority target each turn."
   },
   {
     "faction": "Space Marines",
@@ -3369,7 +3369,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast cavalry/bike-led build built for turn-one aggression and rapid objective grabs."
   },
   {
     "faction": "Space Marines",
@@ -3381,7 +3381,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Infiltration and disruption build using scouts and stealth units to seize backfield objectives."
   },
   {
     "faction": "Space Marines",
@@ -3393,7 +3393,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast skirmish build using Outriders and light vehicles to control the mid-board early."
   },
   {
     "faction": "Space Wolves",
@@ -3753,7 +3753,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Tzeentch daemon-summoning build blending Thousand Sons infantry with Changehost reinforcements."
   },
   {
     "faction": "Thousand Sons",
@@ -3765,7 +3765,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Rubric Marine-heavy psyker build stacking psychic buffs across a slow, resilient core."
   },
   {
     "faction": "Thousand Sons",
@@ -3777,7 +3777,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Cultist and Chaos Spawn-flavoured build using disposable bodies to screen the sorcerous core."
   },
   {
     "faction": "Thousand Sons",
@@ -3789,7 +3789,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Resilience-focused build built around psychic rituals that keep key units in the fight longer."
   },
   {
     "faction": "Thousand Sons",
@@ -3801,7 +3801,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Rubric Marine gunline build leaning on ranged firepower and slow, deliberate advances."
   },
   {
     "faction": "Thousand Sons",
@@ -3813,7 +3813,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Scarab Occult Terminator-led elite build built around a hard-hitting deep strike core."
   },
   {
     "faction": "Thousand Sons",
@@ -3825,7 +3825,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Tzeentch-aligned build leaning into psychic trickery and battlefield manipulation."
   },
   {
     "faction": "Thousand Sons",
@@ -3837,7 +3837,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Sorcerer and daemon engine build blending psychic power with mechanised support."
   },
   {
     "faction": "Thousand Sons",
@@ -3849,7 +3849,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Combined-arms Thousand Sons build balancing psykers, infantry and daemon engines."
   },
   {
     "faction": "Tyranids",
@@ -3861,7 +3861,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Infiltration-heavy build using Lictors and stealthy bioforms to strike from unexpected angles."
   },
   {
     "faction": "Tyranids",
@@ -3873,7 +3873,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Objective-control build using cheap bioform swarms to spread across and hold the board."
   },
   {
     "faction": "Tyranids",
@@ -3885,7 +3885,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Monster-heavy build built around big bioforms smashing through the enemy line."
   },
   {
     "faction": "Tyranids",
@@ -3897,7 +3897,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Generic all-comers Tyranid build flexible enough to fit most bioform mixes."
   },
   {
     "faction": "Tyranids",
@@ -3909,7 +3909,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Deep strike-flavoured build using tunnelling bioforms to appear behind enemy lines."
   },
   {
     "faction": "Tyranids",
@@ -3921,7 +3921,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Synapse-focused build maximising the buffing/control range of Tyranid synapse creatures."
   },
   {
     "faction": "Tyranids",
@@ -3933,7 +3933,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast strike build using flying and fast-attack bioforms for rapid aggression."
   },
   {
     "faction": "Tyranids",
@@ -3945,7 +3945,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Horde build maximising cheap Termagant/Hormagaunt-style bodies to overwhelm the enemy."
   },
   {
     "faction": "Tyranids",
@@ -3957,7 +3957,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast bioform build built for an early, aggressive push across the board."
   },
   {
     "faction": "Tyranids",
@@ -3969,7 +3969,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Tyranid Warrior-led build built around mid-sized bioforms leading the swarm."
   },
   {
     "faction": "World Eaters",
@@ -3981,7 +3981,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Khorne Berzerker-heavy melee build built for maximum close-combat aggression turn one."
   },
   {
     "faction": "World Eaters",
@@ -3993,7 +3993,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Daemon engine and vehicle build pairing Khorne war machines with melee infantry support."
   },
   {
     "faction": "World Eaters",
@@ -4005,7 +4005,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "All-out melee build that rewards charging in and racking up kills for army-wide buffs."
   },
   {
     "faction": "World Eaters",
@@ -4017,7 +4017,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Blood-tithe flavoured build built around characters that grow stronger as the killing continues."
   },
   {
     "faction": "World Eaters",
@@ -4029,7 +4029,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Fast vehicle-led charge build getting Berzerkers into combat as quickly as possible."
   },
   {
     "faction": "World Eaters",
@@ -4041,7 +4041,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Daemon-summoning build blending World Eaters infantry with Khorne daemon reinforcements."
   },
   {
     "faction": "World Eaters",
@@ -4053,7 +4053,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Possessed/mutated melee build maximising raw close-combat damage output."
   },
   {
     "faction": "World Eaters",
@@ -4065,7 +4065,7 @@
     ],
     "rule_text": null,
     "source": null,
-    "notes": null
+    "notes": "Character-led melee build built around a Daemon Prince or Lord of Khorne leading the charge."
   },
   {
     "faction": "Ultramarines",

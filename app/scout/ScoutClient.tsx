@@ -121,6 +121,10 @@ export default function ScoutClient({
                 ))}
               </div>
 
+              {selected.notes && (
+                <p className="mb-3 text-sm text-gray-400">{selected.notes}</p>
+              )}
+
               {selected.rule_text && (
                 <p className="mb-3 whitespace-pre-wrap text-sm text-gray-300">
                   {selected.rule_text}
