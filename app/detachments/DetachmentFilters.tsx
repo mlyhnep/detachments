@@ -21,8 +21,7 @@ export default function DetachmentFilters({
 
   const factionCsv = searchParams.get("faction");
   const dispositionCsv = searchParams.get("disposition");
-  const dpMin = searchParams.get("dpMin") ?? "";
-  const dpMax = searchParams.get("dpMax") ?? "";
+  const dpCsv = searchParams.get("dp");
   const tags = searchParams.get("tags") ?? "";
 
   function updateParam(key: string, value: string) {
@@ -71,23 +70,23 @@ export default function DetachmentFilters({
       <div>
         <h3 className="mb-2 text-sm font-medium text-gray-400">DP cost</h3>
         <div className="flex items-center gap-2">
-          <input
-            type="number"
-            min={1}
-            placeholder="min"
-            defaultValue={dpMin}
-            onBlur={(e) => updateParam("dpMin", e.target.value)}
-            className="w-16 rounded border border-gray-700 bg-gray-800 px-2 py-1 text-sm text-white"
-          />
-          <span className="text-gray-600">–</span>
-          <input
-            type="number"
-            min={1}
-            placeholder="max"
-            defaultValue={dpMax}
-            onBlur={(e) => updateParam("dpMax", e.target.value)}
-            className="w-16 rounded border border-gray-700 bg-gray-800 px-2 py-1 text-sm text-white"
-          />
+          {[1, 2, 3].map((dp) => {
+            const selected = (dpCsv ? dpCsv.split(",").map(Number) : []).includes(dp);
+            return (
+              <button
+                key={dp}
+                type="button"
+                onClick={() => updateParam("dp", toggleInList(dpCsv, dp))}
+                className={`h-9 w-9 rounded border text-sm transition-colors ${
+                  selected
+                    ? "border-white bg-white text-gray-900 font-medium"
+                    : "border-gray-700 bg-gray-800 text-gray-300 hover:border-gray-500"
+                }`}
+              >
+                {dp}
+              </button>
+            );
+          })}
         </div>
       </div>
 
@@ -102,7 +101,7 @@ export default function DetachmentFilters({
         />
       </div>
 
-      {(factionCsv || dispositionCsv || dpMin || dpMax || tags) && (
+      {(factionCsv || dispositionCsv || dpCsv || tags) && (
         <button
           onClick={() => router.push("/detachments")}
           className="self-start text-sm text-gray-400 hover:text-white transition-colors"

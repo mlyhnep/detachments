@@ -29,8 +29,7 @@ export default async function DetachmentsPage({
   const factionIds = parseIds(params.faction);
   const dispositionIds = parseIds(params.disposition);
   const tags = parseTags(params.tags);
-  const dpMin = params.dpMin ? Number(params.dpMin) : undefined;
-  const dpMax = params.dpMax ? Number(params.dpMax) : undefined;
+  const dpValues = parseIds(params.dp);
 
   const supabase = await createClient();
 
@@ -50,8 +49,7 @@ export default async function DetachmentsPage({
   if (factionIds.length > 0) query = query.in("faction_id", factionIds);
   if (dispositionIds.length > 0) query = query.overlaps("disposition_ids", dispositionIds);
   if (tags.length > 0) query = query.contains("tags", tags);
-  if (dpMin !== undefined) query = query.gte("dp_cost", dpMin);
-  if (dpMax !== undefined) query = query.lte("dp_cost", dpMax);
+  if (dpValues.length > 0) query = query.in("dp_cost", dpValues);
 
   const { data: detachments } = await query;
 
