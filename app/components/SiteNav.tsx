@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { createClient } from "@/lib/supabase/server";
 import { logout } from "@/app/auth/actions";
+import SiteSwitcher from "@/app/components/SiteSwitcher";
 
 export default async function SiteNav({ activePath }: { activePath?: string }) {
   const supabase = await createClient();
@@ -18,9 +19,7 @@ export default async function SiteNav({ activePath }: { activePath?: string }) {
   return (
     <header className="flex items-center justify-between border-b border-gray-800 px-6 py-4">
       <div className="flex items-center gap-6">
-        <Link href="/" className="font-[family-name:var(--font-cinzel)] text-lg font-bold tracking-tight">
-          Detachments
-        </Link>
+        <SiteSwitcher current="Detachments" />
         <nav className="flex items-center gap-4">
           {navLinks.map(({ href, label }) => {
             const isActive = activePath === href;
